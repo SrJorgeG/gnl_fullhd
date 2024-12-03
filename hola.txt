@@ -1,0 +1,4 @@
+hola que tal manito
+esto es un archivo de prueba
+se supone que tiene que leer todo esto
+y hasta aqui.
